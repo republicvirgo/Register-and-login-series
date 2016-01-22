@@ -6,4 +6,3 @@ So far the code covers the successful login stage [PHP Tutorials Register & Logi
 I will be updating the files for the whole project, cheers!
 
 <strong>Follow me</strong> to stay up to date with this and future projects.
-Lets stay connected!!
